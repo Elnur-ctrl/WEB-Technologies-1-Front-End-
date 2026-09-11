@@ -2,7 +2,7 @@
 
 * **Name:** [Bizhan Elnur]
 * **Group:** [IT - 2513]
-* **Project URL:** [Вставьте сюда ссылку на ваш работающий GitHub Pages]
+* **Project URL:** [https://github.com/Elnur-ctrl/WEB-Technologies-1-Front-End-.git]
 
 ---
 
