@@ -1,0 +1,96 @@
+body {
+        background-color: #c8ebea;
+    }
+
+    h1 {
+        font-family: Georgia, serif;
+    }
+    p {
+    color: darkslategray;
+    font-family: Arial, sans-serif;
+}
+.classname {
+    color: purple;
+    font-family: Verdana, sans-serif;
+}
+#idname {
+    color: rgb(65, 0, 139);
+    font-family: 'Courier New', monospace;
+}
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#main-heading {
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+}
+.about-box {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 30px;
+}
+h2 {
+    font-size: 28px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+}
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: navy;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+h3 {
+    color: rgb(139, 0, 0);
+}
+
+.highlight {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.box-left {
+    float: left;
+    width: 45%;
+    background-color: lightyellow;
+    padding: 15px;
+}
+
+.box-right {
+    float: right;
+    width: 45%;
+    background-color: lightpink;
+    padding: 15px;
+}
+
+.clearfix {
+    clear: both;
+}
