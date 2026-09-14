@@ -2,7 +2,7 @@
 
 * **Name:** [Bizhan Elnur]
 * **Group:** [IT - 2513]
-* **Project URL:** [Live Website](file:///c%3A/Users/Elnur/Documents/IT%20-%20lesson/WEB%20Technologies%201%20%28Front%20End%29%20-%20Assignment/index.html)
+* **Project URL:** [file:///c%3A/Users/Elnur/Documents/IT%20-%20lesson/WEB%20Technologies%201%20%28Front%20End%29%20-%20Assignment/index.html]
 
 ---
 
